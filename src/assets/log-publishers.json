@@ -1,0 +1,14 @@
+[
+  {
+    "loggerName": "console",
+    "loggerLocation": "",
+    "token": "",
+    "isActive": true
+  },
+  {
+    "loggerName": "webapi",
+    "loggerLocation": "https://jitendrasagoriya.github.io/",
+    "token": "EF24LWBHE7NHN9XZ4MPW8M91PCCL35F91563856449298",
+    "isActive": true
+  }
+]
